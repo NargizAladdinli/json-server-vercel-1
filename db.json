@@ -18,5 +18,11 @@
       "preco": "99.90",
       "imagem": "produto.webp"
     }
+  ],
+  "post":[
+    {
+      "id":1,
+      "name": "Jonh"
+    }
   ]
 }
